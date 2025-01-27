@@ -23,6 +23,21 @@ The following Python libraries were utilized for data analysis and visualization
 - 👌 `cufflinks` – Easy plotting with pandas & plotly.
 - 👌 `chart_studio.plotly` – Cloud-based chart sharing.
 
+### Charts & Visualizations 🎨
+- **Analysis of Stock Price Changes Over Time**
+![image](https://github.com/user-attachments/assets/d2cb0dcc-bfe4-48fa-94ac-aebc3293cb5f)
+
+- *Analysing open , high , low , close value of bitcoin for first 50 rows (OHLC Candlestick Chart)**
+![image](https://github.com/user-attachments/assets/631e08ea-72ec-4410-bc38-d20145792b49)
+
+- **Analysing closing price (on normal scale & log-scale)**
+- ![image](https://github.com/user-attachments/assets/09b3584d-3879-4670-b3a1-d6b9a6273f89)
+
+- **Analysing Daily change in Closing price of stocks**
+- ![image](https://github.com/user-attachments/assets/fc69ae36-79ab-4f36-9670-83e259db0885)
+
+
+
 📁 Bitcoin-Data-Analysis
 │-- 📜 Bitcoin_analysis_Pranav_Palkar.ipynb   # Jupyter Notebook with complete analysis
 │-- 📜 Bitcoin_analysis_Pranav_Palkar.html    # HTML report with charts & findings
