@@ -22,3 +22,17 @@ The following Python libraries were utilized for data analysis and visualization
 - 👌 `plotly` – Interactive charts for deeper insights.
 - 👌 `cufflinks` – Easy plotting with pandas & plotly.
 - 👌 `chart_studio.plotly` – Cloud-based chart sharing.
+
+📁 Bitcoin-Data-Analysis
+│-- 📜 Bitcoin_analysis_Pranav_Palkar.ipynb   # Jupyter Notebook with complete analysis
+│-- 📜 Bitcoin_analysis.html      # HTML report with charts & findings
+│-- 📜 README.md                  # Project documentation
+│-- 📜 requirements.txt           # List of dependencies
+│-- 📜 bitcoin_price.csv                # Bitcoin price dataset
+
+### Insights & Findings 🔎
+✔️ Bitcoin exhibits extreme volatility with sharp price movements.
+✔️ OHLC analysis reveals large intraday price swings.
+✔️ Long-term trends suggest exponential growth, but short-term corrections are frequent.
+✔️ Daily price change analysis shows unpredictable movements with some stability over longer periods.
+
