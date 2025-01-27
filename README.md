@@ -3,6 +3,7 @@
 ### Overview
 This project focuses on cleaning, analyzing, and visualizing Bitcoin price data to uncover market trends, volatility, and key insights. It includes time-series analysis, OHLC (Open, High, Low, Close) examination, and interactive visualizations to better understand Bitcoin's price behavior over time.
 
+
 ### Project Features 🚀
 - ✅ **Data Preprocessing** – Handled missing values, formatted date-time, and removed duplicates.
 - ✅ **Exploratory Data Analysis (EDA)** – Analyzed price changes, trends, and volatility.
