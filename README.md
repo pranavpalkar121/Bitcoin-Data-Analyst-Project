@@ -37,12 +37,14 @@ The following Python libraries were utilized for data analysis and visualization
 - ![image](https://github.com/user-attachments/assets/fc69ae36-79ab-4f36-9670-83e259db0885)
 
 
-
+### Project Structure 📁
+```
 📁 Bitcoin-Data-Analysis
 │-- 📜 Bitcoin_analysis_Pranav_Palkar.ipynb   # Jupyter Notebook with complete analysis
 │-- 📜 Bitcoin_analysis_Pranav_Palkar.html    # HTML report with charts & findings
 │-- 📜 bitcoin_price.csv                      # Bitcoin price dataset
 │-- 📜 README.md                              # Project documentation
+```
 
 ### Insights & Findings 🔎
 ✔️ Bitcoin exhibits extreme volatility with sharp price movements.
